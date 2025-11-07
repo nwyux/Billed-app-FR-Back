@@ -7,6 +7,7 @@ module.exports = {
   extends: [
     'airbnb-base',
   ],
+  linebreakStyle: ['silent', 'windows'],
   parserOptions: {
     ecmaVersion: 13,
   },
